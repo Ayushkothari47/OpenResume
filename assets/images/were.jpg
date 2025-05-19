@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About</title>
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+<style>
+nav{
+color: black;
+}
+
+.nav-item {
+color: black;
+font-size: 20px;
+}
+
+header {
+background-color: #2998e7;
+}
+
+section {
+padding: 60px 0;
+}
+
+.section-title {
+margin-bottom: 40px;
+text-align: center;
+}
+</style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<div class="container">
+<a class="navbar-brand" href="#" style="font-weight:bold;"><img src="../assets/images/OpenResume.svg" alt="My SVG Icon">
+</a>
+<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarNav">
+<ul class="navbar-nav ms-auto">
+<li class="nav-item"><a class="nav-link" href="../index.html">Home</a></li>
+<li class="nav-item"><a class="nav-link" href="#">About us</a></li>
+<li class="nav-item"><a class="nav-link" href="../pages/help.html">Help</a></li>
+</ul>
+</div>
+</div>
+</nav>
+
+<header class="text-center py-5 text-white">
+<h1>About Us</h1>
+</header>
+
+<section class="container my-5">
+    <div class="row text-center">
+    <div class="col-md-4">
+    <div class="card p-3 shadow-sm">
+    <h3>Our Mission</h3>
+    <img src= https://www.codeassists.com/wp-content/uploads/2024/07/193_online-resume-builder.png  width="360" length="345">
+    <p>To provide a seamless resume-building experience for everyone.</p>
+    </div>
+    </div>
+    <div class="col-md-4">
+    <div class="card p-3 shadow-sm">
+
+     <h3>What We Do</h3>
+     <img src= https://i.ytimg.com/vi/ojFkXf-iGXo/maxresdefault.jpg width="380">
+    <p>OpenResume offers user-friendly tools to build attractive, job-winning resumes</p>
+    </div>
+    </div>
+    <div class="col-md-4">
+    <div class="card p-3 shadow-sm">
+    <h3>Why Choose Us</h3>
+    <img src= https://elements-resized.envatousercontent.com/elements-cover-images/0b259f37-babb-4e9d-8c0f-dab8417ac747?w=433&cf_fit=scale-down&q=85&format=auto&s=d33ec2becf7888d2b773f02fc94926d08447834f7dd1a434e93690d804015c1e width="380">
+    <p>We provide a clean interface, various templates, and easy customization options for your resumes.</p>
+    </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card p-3 shadow-sm">
+        <h3>Our Team</h3>
+        <img src= https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvduLp4W5Ab1lPPJZ1de98XSMaN6STcRBHn8tyJaB6wsQjVYwHjMW4p2jwsYPb5NhIzds&usqp=CAU width="380">
+        <p>A diverse group of professionals who bring creativity and technical skills to every project.</p>
+        </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card p-3 shadow-sm">
+            <h3>Our Values</h3>
+            <img src= https://novoresume.com/images/ts/home.png width="380">
+            <p>Integrity, Innovation, Collaboration, and Excellence are the core values that drive us.</p>
+            </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card p-3 shadow-sm">
+                <h3>Our Values</h3>
+                <img src= "https://play-lh.googleusercontent.com/JulFMIfuC3wkyscvOA2xf4ivP5VN7VrD91_IIhVVkETqTl7jF8Ef4T6qwPpBEAsErrg=w526-h296-rw" width="380">
+                <p>Integrity, Innovation, Collaboration, and Excellence are the core values that drive us.</p>
+                </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card p-3 shadow-sm">
+                    <h3>Our Values</h3>
+                    <img src="C:\Users\hp\Downloads\RBP\RBP\Frontend\assets\images\were.jpg"  width="380">
+                    <p>Integrity, Innovation, Collaboration, and Excellence are the core values that drive us.</p>
+                    </div>
+                    </div>
+        </section>
+        
+    </div>
+</div>
+        </div>
+</body>
+</html>
+
